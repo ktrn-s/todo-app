@@ -1,16 +1,30 @@
-# React + Vite
+ To-Do List Application (React)
+ 
+The To-Do List application is a simple and practical tool designed to help users organize their daily tasks more efficiently.  
+It allows users to quickly add tasks, track their progress, and remove tasks once they are completed.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Live demo:  
+https://to-do-list-tasks-check.netlify.app/
 
-Currently, two official plugins are available:
+About the Application
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+This application provides an easy-to-use interface where users can create a list of tasks and manage them in real time.  
+Tasks can be added through an input field, marked as completed, or deleted from the list when no longer needed.  
+All changes are reflected instantly thanks to React state management.
+The goal of this project was to practice building interactive user interfaces using React and to better understand how state and events work together in a real application.
 
-## React Compiler
+Technologies Used
+- React
+- JavaScript (ES6+)
+- HTML
+- CSS
+- Vite
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Challenges and Learnings
 
-## Expanding the ESLint configuration
+One of the main challenges in this project was working with React state to update the UI dynamically.  
+While building this application, I improved my understanding of React components, event handling, and managing application state using hooks.
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+Running the Project
+
+No additional setup is required to use the live version.  
