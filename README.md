@@ -3,9 +3,6 @@
 The To-Do List application is a simple and practical tool designed to help users organize their daily tasks more efficiently.  
 It allows users to quickly add tasks, track their progress, and remove tasks once they are completed.
 
-Live demo:  
-https://to-do-list-tasks-check.netlify.app/
-
 About the Application
 
 This application provides an easy-to-use interface where users can create a list of tasks and manage them in real time.  
@@ -19,6 +16,14 @@ Technologies Used
 - HTML
 - CSS
 - Vite
+
+Live demo:  
+
+https://to-do-list-tasks-check.netlify.app/
+
+Screenshot
+
+![To Do List App Screenshot](./ToDoList.png)
 
 Challenges and Learnings
 
