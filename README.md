@@ -30,6 +30,13 @@ Challenges and Learnings
 One of the main challenges in this project was working with React state to update the UI dynamically.  
 While building this application, I improved my understanding of React components, event handling, and managing application state using hooks.
 
-Running the Project
+How to Run the Project Locally
 
-No additional setup is required to use the live version.  
+1. Clone the repository:
+git clone https://github.com/ktrn-s/todo-app
+
+2. Install dependencies:
+npm install
+
+3. Start the development server:
+npm run dev
